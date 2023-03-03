@@ -1,6 +1,6 @@
 # react-hello-world
 
-This is a starter web application using React and Parcel.js. It's based on the blog post "How to Get Started with React" by ChatGPT. You can find the blog post here: [React Hello World](http://blog.jesperkihlberg.dk/index.php/2023/03/02/getting-started-with-react/).
+This is a starter web application using React and Parcel.js. You can find the blog post here: [React Hello World](http://blog.jesperkihlberg.dk/index.php/2023/03/02/getting-started-with-react/).
 
 ## Getting Started
 
